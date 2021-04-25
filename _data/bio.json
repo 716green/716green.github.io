@@ -1,95 +1,96 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Bob Bass",
+    "label": "Passionate Full Stack Developer",
+    "picture": "https://techfolios.github.io/template/images/bob.png",
+    "email": "bob@narro.app",
+    "phone": "716-983-2079",
+    "website": "https://716green.github.io",
+    "summary": "I am a passionate software developer and self-starter. I have 10+ years of business and entrepreneurial experience across 3 separate businesses that I've founded, grown, and sold. I've employed hundreds of people across those previous ventures. As of 2019, I sold my final non-software company to pursue software engineering full time. Since 2019 I've devoted all of my time and energy to learning as many languages, and technologies, and frameworks as possible. I pride myself in my ability to learn programming related technologies quickly and efficiently",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "14223",
+      "city": "Buffalo",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "New York"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "716green",
+        "url": "http://github.com/716green"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "bbass9490",
+        "url": "http://linkedin.com/in/bbass9490"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "716green",
+        "url": "http://twitter.com/bobdotjs"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "bbass9490",
+        "url": "http://instagram.com/bbass9490"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "programming languages and frameworks",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "javascript",
+        "typescript",
+        "node",
+        "deno",
+        "vue",
+        "react",
+        "vue",
+        "vue.js",
+        "react",
+        "node",
+        "javascript",
+        "framework",
+        "library"
       ]
     },
     {
-      "name": "data mining",
-      "keywords": [
-      ]
+      "name": "full stack web application development",
+      "keywords": ["full stack", "single page apps"]
     },
     {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
+      "name": "relational databases and document databases",
+      "keywords": ["mysql", "postgres", "mariadb", "mongodb", "firestore"]
     }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
+      "keywords": ["C", "C++", "Java", "Javascript", "Assembly", "Common Lisp"]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
+      "keywords": ["MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "ECC, NCCC, MSU, U of M",
+      "area": "Computer Science, Audio Engineering, Video Game Development, Web Development",
+      "studyType": "Associates + Specialty Certifications",
+      "startDate": "2009",
+      "endDate": "2016",
+      "gpa": "3.1",
       "courses": [
+        "Video Game Development with Unity",
+        "C# for Game Development",
+        "Intro to Programming with C++",
+        "Audio Engineering with Pro Tools",
+        "Web Development and Multimedia"
       ]
     }
   ],
